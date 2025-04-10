@@ -4,7 +4,11 @@
 ***"Smarter Farms. Greener Planet."***
 
 
+### Monitoring Dashboard 
+https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/
 
+### Nokia Keypad
+https://v0-old-nokia-keypad-layout.vercel.app/
 
 
 ## Overview
@@ -64,7 +68,7 @@ These bio-mimetic principles ensure that the system is not only innovative but a
 - Integrated SMS alert system.
 - Bio-inspired sensor technology for comprehensive monitoring.
 
-<img src="/images/MVP.png" alt="Terracore Icon" style="width : 1000px ; height : 1000px; " />
+<img src="/images/MVP.png" alt="Architecture icon" />
 
 ---
 
@@ -113,12 +117,5 @@ Contributions are welcome! To contribute:
    ```bash
    git clone https://github.com/Rupam9864/Terracore.git
 
-### Monitoring Dashboard 
-   ```bash
-   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app
 
-
-### Nokia Keypad
-  ```bash
-   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/](https://v0-old-nokia-keypad-layout.vercel.app
     
