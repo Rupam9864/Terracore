@@ -1,7 +1,6 @@
+<h1>AI-Powered Bio-Inspired Environmental Monitoring System-inspired by Plant Roots, Ant Colonies and Bee Behaviour</h1>
 
-##### AI-Powered Bio-Inspired Environmental Monitoring System-inspired by Plant Roots, Ant Colonies and Bee Behaviour
-
-*****"Smarter Farms. Greener Planet."*****
+<h1>"Smarter Farms. Greener Planet."</h1>
 
 
 ### Monitoring Dashboard 
