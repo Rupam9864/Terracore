@@ -54,6 +54,16 @@ Terracore addresses these issues by democratizing agricultural intelligence and 
 
 
 
+
+### Monitoring Dashboard 
+```bash
+   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/
+
+
+### Nokia Keypad
+  ```bash
+   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/](https://v0-old-nokia-keypad-layout.vercel.app/
+
 ### Bio-Mimicry Inspiration:
 Our sensor design is inspired by natural systems:
 - **Plant Roots:** Mimic how roots efficiently absorb water and nutrients, guiding our soil moisture and nutrient sensors.
@@ -68,7 +78,7 @@ These bio-mimetic principles ensure that the system is not only innovative but a
 - Integrated SMS alert system.
 - Bio-inspired sensor technology for comprehensive monitoring.
 
-<img src="/images/MVP.png" alt="Terracore Icon" style="width : 500px ; height : 500px; " />
+<img src="/images/MVP.png" alt="Terracore Icon" style="width : 1000px ; height : 1000px; " />
 
 ---
 
