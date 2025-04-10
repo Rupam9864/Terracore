@@ -114,11 +114,11 @@ Contributions are welcome! To contribute:
    git clone https://github.com/Rupam9864/Terracore.git
 
 ### Monitoring Dashboard 
-```bash
-   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/
+   ```bash
+   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app
 
 
 ### Nokia Keypad
   ```bash
-   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/](https://v0-old-nokia-keypad-layout.vercel.app/
+   git clone https://github.com/Rupam9864/Terracore.git](https://v0-crop-monitoring-dashboard-5aqo6l.vercel.app/](https://v0-old-nokia-keypad-layout.vercel.app
     
