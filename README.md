@@ -7,6 +7,8 @@
 ## Overview
 This project is a low-cost real-time environmental monitoring system for small-scale farmers. The system uses bio-inspired sensors and AI models to detect soil moisture, nutrient levels, temperature, humidity, and pest infestations. It then provides actionable insights via simulated SMS alerts.
 
+<img src="/images/icon.png" alt="terracore icon" />
+
 ## Problem Statement
 
 Small-scale farmers face significant challenges:
@@ -36,6 +38,9 @@ Terracore addresses these issues by democratizing agricultural intelligence and 
 - **Holistic, Low-Cost Design:**  
   Integrates multiple sensors and AI analysis into a single, affordable unit that operates offline.
 
+
+<img src="/images/Architechture.png" alt="Architecture icon" />
+
 ### Bio-Mimicry Inspiration:
 Our sensor design is inspired by natural systems:
 - **Plant Roots:** Mimic how roots efficiently absorb water and nutrients, guiding our soil moisture and nutrient sensors.
@@ -50,6 +55,8 @@ These bio-mimetic principles ensure that the system is not only innovative but a
 - Integrated SMS alert system.
 - Bio-inspired sensor technology for comprehensive monitoring.
 
+<img src="/images/MVP.png" alt="MVP icon" />
+
 ---
 
 ## Repository Structure
@@ -61,12 +68,6 @@ Terracore/ ├── .gitignore ├── LICENSE ├── README.md ├── 
 Research & Inspiration: Ideas inspired by studies from Nature, ScienceDirect, World Bank blogs, and various agritech research sources.
 
 Community Support: https://asknature.org/
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Contributing
 
